@@ -1,0 +1,20 @@
+#,Quantity,Reference Designators,Manufacturer,Manufacturer P/N,Vendor,Vendor P/N,Description,Value,Pattern
+1,2,"C1, C2",Panasonic,ECE-A1VKS100,Mouser,667-ECE-A1VKS100,Aluminum Electrolytic Capacitors - Leaded 10UF 35V KS RADIAL,10u 25V,CAPPR-2/5.08
+2,2,"C3, C4",Vishay / Sprague,1C10Z5U104M050B,Mouser,75-1C10Z5U104M050B,Multilayer Ceramic Capacitors MLCC - Leaded 0.1uF 50volts Z5U 20% 2.5mm L/S,100n,CAP-2.54/6.6x3
+3,1,C5,KEMET ,C315C569D1G5TA ,Mouser,80-C315C569D1G,Multilayer Ceramic Capacitors MLCC - Leaded 100V 5.6pF C0G 0.5pF LS=2.54mm ,5.6pF,CAP-2.54/6.6x3
+4,1,C6,KEMET ,C315C120K5G5TA ,Mouser,80-C315C120K5G ,Multilayer Ceramic Capacitors MLCC - Leaded 50V 12pF C0G 10% LS=2.54mm ,12pF,CAP-2.54/6.6x3
+5,1,C7,KEMET ,C315C200KAG5TA ,Mouser,80-C315C200KAG5TA,Multilayer Ceramic Capacitors MLCC - Leaded 250V 20pF C0G 10% LS=2.54mm,20pF,CAP-2.54/6.6x3
+6,1,C8,KEMET ,C316C470K2G5TA ,Mouser,80-C316C470K2G,Multilayer Ceramic Capacitors MLCC - Leaded 200V 47pF C0G 10% LS=2.54mm,47pF,CAP-2.54/6.6x3
+7,1,C9,KEMET ,C315C101J3G5TA ,Mouser,80-C315C101J3G5TA,Multilayer Ceramic Capacitors MLCC - Leaded 25V 100pF C0G 5% LS=2.54mm,100pF,CAP-2.54/6.6x3
+8,1,C10,KEMET ,C315C471K2G5TA ,Mouser,80-C315C471K2G,Multilayer Ceramic Capacitors MLCC - Leaded 200V 470pF C0G 10% LS=2.54mm,470pF,CAP-2.54/6.6x3
+9,2,"C11, C12",KEMET ,C315C209DAG5TA ,Mouser,80-C315C209DAG5TA,Multilayer Ceramic Capacitors MLCC - Leaded 250V 2pF C0G 0.5pF LS=2.54mm,2pF,CAP-2.54/6.6x3
+10,2,"D1, D2",Fairchild Semiconductor,1N4001,Mouser,512-1N4001,Rectifiers Vr/50V Io/1A T/R,,DO-41
+11,2,"FB1, FB2",Fair-Rite,2743001111,Mouser,623-2743001111,"EMI Filter Beads, Chips & Arrays 43 BEAD ON LEAD Z=68 OHM @ 100MHz",68R,FB-10.16/4.45x3.5
+12,1,J1,-0,-0,Futurlec,IDCMH16 ,16 Pin Shrouded Male Headers IDC,,IDC16M
+13,8,"J2, J3, J4, J5, J6, J7, J8, J9",Wenzhou QingPu,PJ302M,Thonk,MECH_JK_PJ302M,"Right angled 3.5mm Jack Sockets w/Knurled Nuts, No Washers",IN1,PJ302M
+14,6,"Q1, Q2, Q3, Q4, Q5, Q6",ON Semiconductor / Fairchild ,2N3904BU ,Mouser,512-2N3904BU ,Bipolar Transistors - BJT NPN Transistor General Purpose ,2N3904,TO-92_WIDE
+15,6,"R1, R6, R10, R14, R18, R22",KOA Speer,MF1/4DCT52R1003F,Mouser,660-MF1/4DCT52R1003F,Metal Film Resistors - Through Hole 100Kohms 1% 100PPM,100K,RES-7.62/5.1x2.5
+16,8,"R2, R5, R9, R13, R17, R21, R28, R29",KOA Speer,MF1/4DCT52R4990F,Mouser,660-MF1/4DCT52R4990F,Metal Film Resistors - Through Hole 1/4W 499 ohm 1% 500 OHM 1%,499R,RES-7.62/5.1x2.5
+17,9,"R3, R7, R11, R15, R19, R23, R25, R26, R27",KOA Speer,MF1/4DCT52R1002F,Mouser,660-MF1/4DCT52R1002F,Metal Film Resistors - Through Hole 10Kohms 1% 100PPM,10K,RES-7.62/5.1x2.5
+18,6,"R4, R8, R12, R16, R20, R24",KOA Speer,MF1/4DCT52R4991F,Mouser,660-MF1/4DCT52R4991F,Metal Film Resistors - Through Hole 4.99Kohms 1% 100PPM,4.99K,RES-7.62/5.1x2.5
+19,1,U1,Texas Instruments,LM6172IN/NOPB,Mouser,926-LM6172IN/NOPB,"Operational Amplifiers - Op Amps Dual High Speed,Low Pwr Amp",,DIP-8
